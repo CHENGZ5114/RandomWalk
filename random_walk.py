@@ -1,7 +1,7 @@
 from random import choice
   
 class RandomWalk():
-	#Ò»¸öÉú³ÉËæ»úÊı¾İµÄÀà
+	#åˆ›å»ºä¸€ä¸ªéšæœºæ¼«æ­¥æ•°æ®çš„ç±»
 	def __init__(self,num_points=500):
 		self.num_points=num_points
 		self.x_values=[0]
